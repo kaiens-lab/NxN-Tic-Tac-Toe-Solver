@@ -1,0 +1,12 @@
+{
+  "name": "nxn-tictactoe",
+  "version": "1.0.0",
+  "description": "這是一個可支援 NxN 棋盤的井字遊戲結果判斷器。",
+  "main": "solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
